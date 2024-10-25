@@ -11,4 +11,12 @@
 <loc>https://tubidycom.github.io/tubidy/tr/</loc>
 <changefreq>daily</changefreq>
 </url>
+<url>
+<loc>https://tubidycom.github.io/tubidy/fr/</loc>
+<changefreq>daily</changefreq>
+</url>
+<url>
+<loc>https://tubidycom.github.io/tubidy/pt/</loc>
+<changefreq>daily</changefreq>
+</url>
 </urlset>
