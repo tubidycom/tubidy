@@ -1,39 +1,30 @@
-# Welcome to Keepvid!
-Keepvid is your go-to site for downloading online videos. With Keepvid, you can easily download your entire video collection to your device. Plus, you can upload videos to Facebook and share them on Instagram. Want to turn your favorite Instagram videos into MP3 ringtones? Keepvid makes it simple!
+# Tubidy - Download MP3 and MP4 for Free
+In today’s digital landscape, multimedia content is a vital part of our everyday experiences. Whether it’s music, videos, or podcasts, we’re always looking for convenient ways to access our favorite media. Tubidy has become a popular platform that meets these demands by providing free downloads of music and videos. This guide will cover everything you need to know about Tubidy, including its features, benefits, how to use it, and legal aspects.
 
-Explore all the features Keepvid has to offer and start enjoying your videos today!
+## What is Tubidy?
+[Tubidy](https://tubidycom.github.io/tubidy/) is a free online service that enables users to search, stream, and download music and videos. Its mobile-friendly design makes it particularly appealing for accessing content on smartphones and tablets. Supporting a variety of file formats, including MP3 for audio and MP4 for video, Tubidy is a versatile resource for media lovers.
 
-# features of Keepvid
-## Online MP4 Download
-Keepvid is the best online video downloader. With years of experience, we understand what an effective video downloading tool should offer. Easily download your favorite videos in MP4 format and enjoy hassle-free access anytime, anywhere. Experience the simplicity and reliability of Keepvid today!
-## YouTube MP4 Download
-Keepvid is an excellent YouTube video downloader that lets you download videos in MP4, MP3, and various other formats. Enjoy high-definition quality with our HD YouTube downloader. Start downloading your favorite YouTube videos effortlessly today!
-## Facebook MP4 Download
-Keepvid is the perfect choice for saving videos from Facebook. With Keepvid, you can quickly and easily download your favorite Facebook videos to your device for free. Start enjoying your videos offline today!
-## YouTube to MP3 Convert
-If you’ve found an awesome track on YouTube, Keepvid makes it easy to extract the MP3 from YouTube videos. Download your favorite music and listen offline anytime, anywhere!
+## Features of Tubidy
+### Extensive Library
+Tubidy offers a vast collection of music and videos across numerous genres and languages. Whether you're interested in the latest pop tracks, classic rock songs, or indie favorites, there’s something for everyone. The platform also features a wide array of videos, including music videos, movie trailers, educational clips, and vlogs.
 
-# FAQ: Questions & Answers
-## 1. What is Keepvid?
-Keepvid is an online video downloader that allows you to download videos from various platforms, including YouTube and Facebook, in multiple formats like MP4 and MP3.
+### User-Friendly Interface
+Designed with simplicity in mind, Tubidy’s user interface makes it easy to navigate. The search bar is prominently displayed on the homepage, allowing users to quickly locate their desired content. Additionally, the site is optimized for mobile devices, ensuring a smooth browsing experience on smartphones and tablets.
 
-## 2. How do I download a video using Keepvid?
-Simply copy the video URL, paste it into the Keepvid search bar, choose your desired format, and click the download button.
+### Free Downloads
+A key attraction of Tubidy is the ability to download music and videos at no cost. Users can easily save their favorite tracks and videos, making it an attractive option for those looking to build a personal media library without spending money.
 
-## 3. Is Keepvid free to use?
-Yes, Keepvid offers free video downloading services with no hidden charges.
+### High-Quality Downloads
+Tubidy offers high-quality downloads in various formats. Users can select their preferred quality and format before downloading, ensuring an optimal experience based on their device’s capabilities and storage space.
 
-## 4. What formats can I download videos in?
-You can download videos in MP4, MP3, and other popular formats.
+### No Registration Required
+Tubidy allows users to access its services without the need to create an account or register. This feature enhances privacy and offers a hassle-free way to enjoy content without the commitment of signing up.
 
-## 5. Can I download HD videos?
-Yes, Keepvid supports HD video downloads when available.
+### Search Functionality
+With a robust search engine, Tubidy helps users quickly find specific songs, artists, or videos, making content discovery efficient and straightforward.
 
-## 6. Is there a limit to how many videos I can download?
-No, you can download as many videos as you like!
-
-## 7. Do I need to install any software?
-No installation is required; Keepvid works directly from your web browser.
-
-## 8. Is Keepvid safe to use?
-Yes, Keepvid prioritizes user safety and security. Our site is designed to be secure and user-friendly.
+[English](https://tubidycom.github.io/tubidy/)
+[Português](https://tubidycom.github.io/tubidy/pt/)
+[Français](https://tubidycom.github.io/tubidy/fr/)
+[Türkçe](https://tubidycom.github.io/tubidy/tr/)
+[Español](https://tubidycom.github.io/tubidy/es/)
